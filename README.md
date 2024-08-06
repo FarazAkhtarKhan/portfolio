@@ -30,7 +30,7 @@ To run this project locally, you need to have a modern web browser.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/YourUsername/portfolio.git
+   git clone https://github.com/FarazAkhtarKhan/portfolio.git
    ```
 
 2. **Navigate to the project directory:**
